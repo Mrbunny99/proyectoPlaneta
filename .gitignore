@@ -25,11 +25,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Archivos de imágenes
-*.png
-*.jpg
-*.jpeg
-
 # Archivos de configuración específicos
 *.ini
 *.json
