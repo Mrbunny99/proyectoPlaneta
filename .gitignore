@@ -1,0 +1,35 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de bases de datos locales
+*.sqlite3
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de imágenes
+*.png
+*.jpg
+*.jpeg
+
+# Archivos de configuración específicos
+*.ini
+*.json
